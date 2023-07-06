@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Mechetin"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-07-06 11:07:52 "/>
+        <attribute name="created" value="TWVjaGV0aW47TkIwMDI7MjAyMy0wNy0wNjsiMDg6MDM6MTggIjsyMjk4"/>
+        <attribute name="edited" value="TWVjaGV0aW47TkIwMDI7MjAyMy0wNy0wNjsiMTE6MDc6NTIgIjsyOzI0MDM="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="i" type="Integer" array="False" size=""/>
+            <declare name="s, s3" type="String" array="False" size=""/>
+            <declare name="VarString, NewVarString" type="String" array="True" size="3"/>
+            <assign variable="i" expression="0"/>
+            <while expression="i&lt;3">
+                <output expression="&quot;Enter some symbols&quot;" newline="True"/>
+                <input variable="s"/>
+                <assign variable="VarString[i]" expression="s"/>
+                <assign variable="i" expression="i+1"/>
+            </while>
+            <assign variable="i" expression="0"/>
+            <while expression="i&lt;Size(VarString)">
+                <if expression="Len(VarString[i])&lt;=3">
+                    <then>
+                        <assign variable="NewVarString[i]" expression="VarString[i]"/>
+                        <output expression="NewVarString[i]&amp;&quot;,&quot;" newline="False"/>
+                    </then>
+                    <else/>
+                </if>
+                <assign variable="i" expression="i+1"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>
