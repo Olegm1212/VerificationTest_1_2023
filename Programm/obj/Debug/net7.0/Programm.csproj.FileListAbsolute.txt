@@ -1,0 +1,15 @@
+C:\Users\Mechetin\Documents\GB\VerTest1\VerificationTest_1_2023\Programm\obj\Debug\net7.0\Programm.csproj.AssemblyReference.cache
+C:\Users\Mechetin\Documents\GB\VerTest1\VerificationTest_1_2023\Programm\obj\Debug\net7.0\Programm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mechetin\Documents\GB\VerTest1\VerificationTest_1_2023\Programm\obj\Debug\net7.0\Programm.AssemblyInfoInputs.cache
+C:\Users\Mechetin\Documents\GB\VerTest1\VerificationTest_1_2023\Programm\obj\Debug\net7.0\Programm.AssemblyInfo.cs
+C:\Users\Mechetin\Documents\GB\VerTest1\VerificationTest_1_2023\Programm\obj\Debug\net7.0\Programm.csproj.CoreCompileInputs.cache
+C:\Users\Mechetin\Documents\GB\VerTest1\VerificationTest_1_2023\Programm\bin\Debug\net7.0\Programm.exe
+C:\Users\Mechetin\Documents\GB\VerTest1\VerificationTest_1_2023\Programm\bin\Debug\net7.0\Programm.deps.json
+C:\Users\Mechetin\Documents\GB\VerTest1\VerificationTest_1_2023\Programm\bin\Debug\net7.0\Programm.runtimeconfig.json
+C:\Users\Mechetin\Documents\GB\VerTest1\VerificationTest_1_2023\Programm\bin\Debug\net7.0\Programm.dll
+C:\Users\Mechetin\Documents\GB\VerTest1\VerificationTest_1_2023\Programm\bin\Debug\net7.0\Programm.pdb
+C:\Users\Mechetin\Documents\GB\VerTest1\VerificationTest_1_2023\Programm\obj\Debug\net7.0\Programm.dll
+C:\Users\Mechetin\Documents\GB\VerTest1\VerificationTest_1_2023\Programm\obj\Debug\net7.0\refint\Programm.dll
+C:\Users\Mechetin\Documents\GB\VerTest1\VerificationTest_1_2023\Programm\obj\Debug\net7.0\Programm.pdb
+C:\Users\Mechetin\Documents\GB\VerTest1\VerificationTest_1_2023\Programm\obj\Debug\net7.0\Programm.genruntimeconfig.cache
+C:\Users\Mechetin\Documents\GB\VerTest1\VerificationTest_1_2023\Programm\obj\Debug\net7.0\ref\Programm.dll
